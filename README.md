@@ -1,3 +1,5 @@
+
+
 # useHydra
 A component that chains keystrokes. So instead of `C-c C-v`, `C-c-v` can be keyed in.
 
@@ -10,7 +12,6 @@ A component that chains keystrokes. So instead of `C-c C-v`, `C-c-v` can be keye
 * `currentKeyCombo` is an array containing the current keystrokes of the user.
 * `updateGapTolerance`, in milliseconds, is used to chain key pressed inside of an interval. Default is 1000ms.
 
-# Preview Video
+# See It In Action
 
-https://user-images.githubusercontent.com/86018533/207339150-e9e3681b-62a0-4798-9434-b88c9bc25147.mp4
-
+https://user-images.githubusercontent.com/86018533/207340080-5b090a37-a175-4951-a40f-854aeb528630.mp4
